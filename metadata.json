@@ -1,5 +1,5 @@
 {
-    "title": "Mathematics: Complex Division in Rectangular Form",
+    "title": "Maths: Complex Division in Rectangular Form",
     "slug": "maths-complex-division-rectangular",
     "description": "Shows how to divide complex numbers in rectangular form by separating the result into real and imaginary parts, using the modulus squared of the denominator. Expresses the quotient directly in rectangular form without derivation.",
     "authors": [
@@ -8,7 +8,7 @@
     "tags": [
         "maths"
     ],
-    "duration": 4,
+    "duration": 2,
     "prerequisites": [
         "maths-complex-number-arithmetic"
     ],
